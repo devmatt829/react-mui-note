@@ -5,9 +5,6 @@ Manage your work, home, personal tasks with notes app. Add ability to add, edit,
 :star: Original project
 [bigsondev.com](https://bigsondev.com/projects/notes-app-project/)
 
-:star: Designed by
-[Milena Ulman](https://www.behance.net/milenaulman)
-
 ## :hammer: Technologies & Tools
 
 - React
